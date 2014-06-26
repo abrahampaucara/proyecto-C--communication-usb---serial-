@@ -1,0 +1,21 @@
+C:\Users\Arturo\Documents\_DOCUMENTOS_dp\_EDIT_L\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\bin\Release\PicWinUSB.exe
+C:\Users\Arturo\Documents\_DOCUMENTOS_dp\_EDIT_L\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\bin\Release\PicWinUSB.pdb
+C:\Users\Arturo\Documents\_DOCUMENTOS_dp\_EDIT_L\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Arturo\Documents\_DOCUMENTOS_dp\_EDIT_L\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Release\PicWinUSB.PicWinUSB.resources
+C:\Users\Arturo\Documents\_DOCUMENTOS_dp\_EDIT_L\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Release\PicWinUSB.Properties.Resources.resources
+C:\Users\Arturo\Documents\_DOCUMENTOS_dp\_EDIT_L\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Release\PicWinUSB.csproj.GenerateResource.Cache
+C:\Users\Arturo\Documents\_DOCUMENTOS_dp\_EDIT_L\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Release\PicWinUSB.exe
+C:\Users\Arturo\Documents\_DOCUMENTOS_dp\_EDIT_L\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Release\PicWinUSB.pdb
+D:\proyectos pic\4\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Release\PicWinUSB.exe
+D:\proyectos pic\4\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Release\PicWinUSB.pdb
+D:\proyectos pic\4\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\bin\Release\PicWinUSB.exe
+D:\proyectos pic\4\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\bin\Release\PicWinUSB.pdb
+D:\proyectos pic\4\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Release\PicWinUSB.csprojResolveAssemblyReference.cache
+D:\proyectos pic\4\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Release\PicWinUSB.PicWinUSB.resources
+D:\proyectos pic\4\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Release\PicWinUSB.Properties.Resources.resources
+D:\proyectos pic\4\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Release\PicWinUSB.csproj.GenerateResource.Cache
+D:\proyectos pic\4\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Release\PicWinUSB.exe.manifest
+D:\proyectos pic\4\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\bin\Release\PicWinUSB.exe.manifest
+D:\proyectos pic\4\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\bin\Release\PicWinUSB.application
+D:\proyectos pic\4\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Release\PicWinUSB.application
+D:\proyectos pic\4\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Release\PicWinUSB.Form1.resources

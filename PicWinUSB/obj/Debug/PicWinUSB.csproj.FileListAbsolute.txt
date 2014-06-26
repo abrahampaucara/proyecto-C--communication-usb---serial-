@@ -1,0 +1,8 @@
+C:\Users\Arturo\Documents\_DOCUMENTOS_dp\_EDIT_L\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\bin\Debug\PicWinUSB.exe
+C:\Users\Arturo\Documents\_DOCUMENTOS_dp\_EDIT_L\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\bin\Debug\PicWinUSB.pdb
+C:\Users\Arturo\Documents\_DOCUMENTOS_dp\_EDIT_L\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arturo\Documents\_DOCUMENTOS_dp\_EDIT_L\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Debug\PicWinUSB.PicWinUSB.resources
+C:\Users\Arturo\Documents\_DOCUMENTOS_dp\_EDIT_L\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Debug\PicWinUSB.Properties.Resources.resources
+C:\Users\Arturo\Documents\_DOCUMENTOS_dp\_EDIT_L\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Debug\PicWinUSB.csproj.GenerateResource.Cache
+C:\Users\Arturo\Documents\_DOCUMENTOS_dp\_EDIT_L\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Debug\PicWinUSB.exe
+C:\Users\Arturo\Documents\_DOCUMENTOS_dp\_EDIT_L\PICtool v2.0\PICtool_v2.0_VC#\PicWinUSB\obj\Debug\PicWinUSB.pdb
